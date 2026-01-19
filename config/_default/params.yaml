@@ -74,7 +74,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'features:
+  repository:
+    url: 'https://github.com/ayerrocolom/ayerrocolom.github.io'
     content_dir: content
     branch: main
   avatar:

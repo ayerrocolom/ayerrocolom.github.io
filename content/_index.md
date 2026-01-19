@@ -1,21 +1,22 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Yerro Research Group
-date: 2022-10-24
+subtitle: Virginia Tech – Civil and Environmental Engineering
+date: 2026-01-19
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Yerro
         Research Group
       image:
-        filename: welcome.jpg
+        filename: welcome.jpg  # Replace with a lab photo or VT image if you want
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Yerro Research Group** at Virginia Tech studies geotechnical hazards, landslides, internal erosion, soil–water–structure interactions, and terramechanics.  
+        Our research combines **numerical modeling, laboratory experiments, and field observations** to improve infrastructure resilience and safety.
   
   - block: collection
     content:
@@ -36,29 +37,9 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:

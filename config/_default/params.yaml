@@ -10,6 +10,8 @@ appearance:
   theme_night:
   font: native
   font_size: L
+  accent_color: '#8C1515'  # Virginia Tech maroon
+
 
 # SEO
 

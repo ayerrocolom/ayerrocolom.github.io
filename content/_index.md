@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       title: |
-        Yerro
+        Alba Yerro
         Research Group
       image:
         filename: welcome.jpg  # Replace with a lab photo or VT image if you want

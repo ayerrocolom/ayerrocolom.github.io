@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Alba Yerro Research Group
+title: Yerro Research Group
 subtitle: Virginia Tech – Civil and Environmental Engineering
 date: 2026-01-19
 type: landing
@@ -9,14 +9,14 @@ sections:
   - block: hero
     content:
       title: |
-        Alba Yerro
+        Yerro
         Research Group
       #image:
         #filename: welcome.jpg  # Replace with a lab photo or VT image if you want
       text: |
         <br>
-        The Alba Yerro Research Group at Virginia Tech studies geotechnical hazards, landslides, internal erosion, soil–water–structure interactions, and terramechanics.  
-        Our research combines numerical modeling, laboratory experiments, and field observations to improve infrastructure resilience and safety.
+       Welcome to the **Yerro Research Group**, led by **Alba Yerro**, Associate Professor at Virginia Tech. We study geotechnical hazards, landslides, tailings dam safety, internal erosion, and soil–water–structure interactions.
+
   
   - block: collection
     content:

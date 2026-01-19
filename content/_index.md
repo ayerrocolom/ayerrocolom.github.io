@@ -12,11 +12,10 @@ sections:
         Yerro
         Research Group
       #image:
-        #filename: welcome.jpg  # Replace with a lab photo or VT image if you want
+        #filename: welcome.jpg
       text: |
         <br>
-        Welcome to the **Yerro Research Group**, led by **Alba Yerro**, Associate Professor at Virginia Tech. We study geotechnical hazards, landslides, tailings dam safety, internal erosion, and soil–water–structure interactions.
-
+        Welcome to the <strong>Yerro Research Group</strong>, led by <strong>Alba Yerro</strong>, Associate Professor at Virginia Tech. We study geotechnical hazards, landslides, tailings dam safety, internal erosion, and soil–water–structure interactions.
   
   - block: collection
     content:

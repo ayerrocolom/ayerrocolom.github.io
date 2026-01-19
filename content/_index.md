@@ -11,8 +11,8 @@ sections:
       title: |
         Alba Yerro
         Research Group
-      image:
-        filename: welcome.jpg  # Replace with a lab photo or VT image if you want
+      #image:
+        #filename: welcome.jpg  # Replace with a lab photo or VT image if you want
       text: |
         <br>
         The Alba Yerro Research Group at Virginia Tech studies geotechnical hazards, landslides, internal erosion, soil–water–structure interactions, and terramechanics.  

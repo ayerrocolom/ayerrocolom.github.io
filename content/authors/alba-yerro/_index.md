@@ -22,9 +22,6 @@ interests:
   - Landslides and debris flows
   - Tailings dam safety
 
-social:
-  email: ayerro@vt.edu
-  google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=K3YMobYAAAAJ&pagesize=100&sortby=pubdate
 
 
 ---

@@ -34,10 +34,10 @@ sections:
       title: Current PhD Students
       text: |
 
-        - Li Ruidong — HKUST (Co-advised)
-        - Sukrityranjan Samanta — Virginia Tech (Principal advisor)
-        - Michael Bennett — Virginia Tech (Principal advisor)
-        - Fereshteh Rahmani — Virginia Tech (Principal advisor)
+        - Li Ruidong (HKUST) — CPT behavior in unsaturated soils (co-advised)
+        - Sukrityranjan Samanta (Virginia Tech) — Initiation and progression of internal cavities in levees
+        - Michael Bennett (Virginia Tech) — Trafficability of soft soils
+        - Fereshteh Rahmani (Virginia Tech) — Vegetation effects on rainfall-triggered landslides
 
 
   - block: markdown
@@ -48,30 +48,32 @@ sections:
 
         ### PhD Graduates
 
-        - Luis Zambrano-Cruzatty (2021)
-        - Veronica Girardi (2022)
-        - Kaleigh Yost (2022)
-        - Ali Monzer (2023)
-        - Zinan Ara Urmi (2024)
-        - Daniela Toro Rojas (2024)
-        - Varsha Swamy (2025)
-        - Abdelrahman Alsardi (2025)
+        - Luis Zambrano-Cruzatty (2021) — *Advancements of numerical simulation techniques to model geotechnical problems in the nearshore zone*
+        - Veronica Girardi (2022) — *Stability and runout of river levees subjected to rainfall and water table changes*
+        - Kaleigh Yost (2022) — *Study of multi-thin-layer effects on CPT data*
+        - Ali Monzer (2023) — *Prediction of structural integrity of ground and buried utilities using numerical simulation of soil erosion around leaking pipes*
+        - Zinan Ara Urmi (2024) — *Prediction of retrogressive landslides in sensitive clays with the material point method*
+        - Daniela Toro Rojas (2024) — *Study of karst systems using the material point method*
+        - Varsha Swamy (2025) — *Numerical and experimental modeling of tire–mud interaction*
+        - Abdelrahman Alsardi (2025) — *Simulating earthquake-triggered runout using higher-order hydromechanical MPM and PM4Sand*
 
-        ### MS Theses (Completed)
 
-        - Angela C. Saade (2018)
-        - Nahmed Nissar (2020)
-        - Julio Copana (2020)
-        - Ian Pierce (2021)
-        - Fuat Furkan (2021)
-        - Rashna Pandit (2023)
-        - Aaditaya Roshan (2023)
-        - Roisha Maharjan (2023)
-        - Jonathan Moore (2025)
-        - Carole Karam (2025)
-        - Jasleen Behora (2025)
-        - Destiny Mason (2025)
-        - Skwostika Dhakal (2025)
+
+        ### MS Theses 
+
+        - Angela C. Saade (2018) — *Numerical analysis of RAP elements under dynamic loading*
+        - Nahmed Nissar (2020) — *Analyzing internal shearing in compound landslides using MPM*
+        - Julio Copana (2020) — *Seismic slope stability: comparison of empirical methods with FEM*
+        - Ian Pierce (2021) — *Runout of the Cadia tailings dam failure (2018)*
+        - Fuat Furkan (2021) — *MPM analysis of free fall penetrometer impact in saturated sand*
+        - Rashna Pandit (2023) — *Characterization of soft clay and tire–soil interaction*
+        - Aaditaya Roshan (2023) — *MPM modeling of landslide impact on rigid walls*
+        - Roisha Maharjan (2023) — *Effectiveness of stone columns after liquefaction*
+        - Jonathan Moore (2025) — *High-strain-rate effects in free fall penetrometer modeling*
+        - Carole Karam (2025) — *Deformations due to underground excavation using MPM*
+        - Jasleen Behora (2025) — *Performance of matting systems on soft soils*
+        - Destiny Mason (2025) — *Finite element and experimental tire–soil interaction*
+        - Skwostika Dhakal (2025) — *Mechanical root reinforcement for slope stability*
 
         ### Undergraduate Researchers
 
@@ -87,6 +89,6 @@ sections:
 
         - Veronica Girardi (University of Padua, 2020)
         - Ruidong Li (HKUST, 2023–2024)
-        - Maria Teresa Yubero de Mateo (UPC, 2025)
+        - María Teresa Yubero de Mateo (UPC, 2025)
         - Enric Bonet Gil (UPC, 2025)
 ---

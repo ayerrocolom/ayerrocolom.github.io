@@ -63,7 +63,7 @@ sections:
 
 - Angela C. Saade (2018) — *Numerical Analysis of RAP Elements under Dynamic Loading*
 - Nahmed Nissar (2020) — *Analyzing internal shearing in compound landslide using MPM*
-- Julio Copana (2020) — *Seismic Slope Stability: A Comparison Study of Empirical Predictive Methods with the Finite Element Method*
+- Julio Copana (2020) — *Seismic Slope Stability. A Comparison Study of Empirical Predictive Methods with the Finite Element Method*
 - Ian Pierce (2021) — *Identification of Key Factors Controlling the Runout of the Cadia Tailing Dam Failure, Australia, 2018*
 - Fuat Furkan (2021) — *MPM numerical Analysis of Free Fall Penetrometer Impact on Saturated Sand*
 - Rashna Pandit (2023) — *Characterization of soft clay and clay-tire interaction for the prediction of ground mobility*
@@ -73,7 +73,7 @@ sections:
 - Carole Karam (2025) — *Study of The Deformations Caused by Underground Excavation Using the Materiel Point Method*
 - Jasleen Behora (2025) — *Numerical investigation on the performance of matting systems on soft soils*
 - Destiny Mason (2025) — *Finite Element Modeling and Experimental Testing of Tire-Soil Interactions for Off-Road Vehicle Performance*
-- Skwostika Dhakal (2026) — *Mechanical Root Reinforcement for Slope Stability: A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System*
+- Skwostika Dhakal (2026) — *Mechanical Root Reinforcement for Slope Stability. A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System*
 
         ### Undergraduate Researchers
 

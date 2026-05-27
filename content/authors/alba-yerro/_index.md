@@ -24,6 +24,6 @@ interests:
 
 social:
   email: ayerro@vt.edu
-  google_scholar: https://scholar.google.com
+
 
 ---

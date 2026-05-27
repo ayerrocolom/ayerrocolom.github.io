@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Yerro Research Group
+title: Alba Yerro Research Group
 subtitle: Virginia Tech – Civil and Environmental Engineering
 date: 2026-01-19
 type: landing
@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       title: |
-        Yerro
+        Alba Yerro
         Research Group
       image:
         #filename: welcome.jpg

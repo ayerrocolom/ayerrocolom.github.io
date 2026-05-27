@@ -46,34 +46,34 @@ sections:
 
       text: |
 
-        ### PhD Graduates
+### PhD Graduates
 
-        - Luis Zambrano-Cruzatty (2021) — *Advancements of numerical simulation techniques to model geotechnical problems in the nearshore zone*
-        - Veronica Girardi (2022) — *Stability and runout of river levees subjected to rainfall and water table changes*
-        - Kaleigh Yost (2022) — *Study of multi-thin-layer effects on CPT data*
-        - Ali Monzer (2023) — *Prediction of structural integrity of ground and buried utilities using numerical simulation of soil erosion around leaking pipes*
-        - Zinan Ara Urmi (2024) — *Prediction of retrogressive landslides in sensitive clays with the material point method*
-        - Daniela Toro Rojas (2024) — *Study of karst systems using the material point method*
-        - Varsha Swamy (2025) — *Numerical and experimental modeling of tire–mud interaction*
-        - Abdelrahman Alsardi (2025) — *Simulating earthquake-triggered runout using higher-order hydromechanical MPM and PM4Sand*
+- Luis Zambrano-Cruzatty (2021) — *Advancements of Numerical Simulation Techniques to Model Geotechnical Problems in the Nearshore Zone*
+- Veronica Girardi (2022) — *Stability and runout of river levees subjected to rainfall and water table changes*
+- Kaleigh Yost (2022) — *Study of multi-thin-layer effects on CPT data*
+- Ali Monzer (2023) — *Prediction of Structural Integrity of the Ground and Buried Utilities Using Numerical Simulation of Soil Erosion around Leaking Pipe*
+- Zinan Ara Urmi (2024) — *Prediction of retrogressive landslide in sensitive clays with the material point method*
+- Daniela Toro Rojas (2024) — *Study of karst systems using the material point method*
+- Varsha Swamy (2025) — *Numerical and experimental modeling of tire–mud interaction*
+- Abdelrahman Alsardi (2025) — *Simulating earthquake-triggered runout using higher-order hydromechanical MPM and PM4Sand*
 
 
 
-        ### MS Theses 
+### MS Theses
 
-        - Angela C. Saade (2018) — *Numerical analysis of RAP elements under dynamic loading*
-        - Nahmed Nissar (2020) — *Analyzing internal shearing in compound landslides using MPM*
-        - Julio Copana (2020) — *Seismic slope stability: comparison of empirical methods with FEM*
-        - Ian Pierce (2021) — *Runout of the Cadia tailings dam failure (2018)*
-        - Fuat Furkan (2021) — *MPM analysis of free fall penetrometer impact in saturated sand*
-        - Rashna Pandit (2023) — *Characterization of soft clay and tire–soil interaction*
-        - Aaditaya Roshan (2023) — *MPM modeling of landslide impact on rigid walls*
-        - Roisha Maharjan (2023) — *Effectiveness of stone columns after liquefaction*
-        - Jonathan Moore (2025) — *High-strain-rate effects in free fall penetrometer modeling*
-        - Carole Karam (2025) — *Deformations due to underground excavation using MPM*
-        - Jasleen Behora (2025) — *Performance of matting systems on soft soils*
-        - Destiny Mason (2025) — *Finite element and experimental tire–soil interaction*
-        - Skwostika Dhakal (2025) — *Mechanical root reinforcement for slope stability*
+- Angela C. Saade (2018) — *Numerical Analysis of RAP Elements under Dynamic Loading*
+- Nahmed Nissar (2020) — *Analyzing internal shearing in compound landslide using MPM*
+- Julio Copana (2020) — *Seismic Slope Stability: A Comparison Study of Empirical Predictive Methods with the Finite Element Method*
+- Ian Pierce (2021) — *Identification of Key Factors Controlling the Runout of the Cadia Tailing Dam Failure, Australia, 2018*
+- Fuat Furkan (2021) — *MPM numerical Analysis of Free Fall Penetrometer Impact on Saturated Sand*
+- Rashna Pandit (2023) — *Characterization of soft clay and clay-tire interaction for the prediction of ground mobility*
+- Aaditaya Roshan (2023) — *MPM modeling of the impact of compound landslides on a rigid wall*
+- Roisha Maharjan (2023) — *Estimating the effectiveness of stone columns in mitigating post-liquefaction settlement using Plaxis2D*
+- Jonathan Moore (2025) — *MPM analysis of FFP in sand considering high-strain-rate effects*
+- Carole Karam (2025) — *Study of The Deformations Caused by Underground Excavation Using the Materiel Point Method*
+- Jasleen Behora (2025) — *Numerical investigation on the performance of matting systems on soft soils*
+- Destiny Mason (2025) — *Finite Element Modeling and Experimental Testing of Tire-Soil Interactions for Off-Road Vehicle Performance*
+- Skwostika Dhakal (2026) — *Mechanical Root Reinforcement for Slope Stability: A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System*
 
         ### Undergraduate Researchers
 

@@ -14,7 +14,8 @@ sections:
 
       # User groups define filtering in individual profile files
       user_groups:
-        - Grad Students
+        - PhD Students
+        - MS Students
         - Postdoctoral Researchers
         - Undergraduate Students
         - Visitors

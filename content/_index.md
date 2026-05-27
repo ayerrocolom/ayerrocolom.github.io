@@ -11,7 +11,7 @@ sections:
       title: |
         Alba Yerro
         Research Group
-      image:
+      #image:
         #filename: welcome.jpg
       text: |
         <br>

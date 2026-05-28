@@ -1,26 +1,28 @@
 ---
 title: Research
-type: collection
+type: landing
 
 sections:
-  - block: features
+  - block: collection
     content:
       title: Research Themes
-      text: My research focuses on large-deformation geomechanics and coupled geotechnical processes.
+      text: |
+        My research focuses on large-deformation geomechanics and coupled physical processes governing geotechnical hazards and infrastructure systems.
 
       items:
-        - title: Large-Deformation Geohazards
-          description: Landslides, debris flows, liquefaction, and failure processes involving extreme deformation.
-
         - title: Computational Geomechanics (MPM & Anura3D)
-          description: Development of particle-based numerical methods for large-deformation soil behavior.
+          description: Development of particle-based and continuum numerical methods for large-deformation soil behavior and geohazard simulation.
+
+        - title: Large-Deformation Geohazards
+          description: Landslides, debris flows, liquefaction, and failure processes involving extreme deformation and post-failure evolution.
 
         - title: Coupled Soil–Fluid–Structure Systems
-          description: Interaction of soils, water, and infrastructure under static and dynamic loading.
+          description: Multiphysics interaction between soils, water, and infrastructure under static and dynamic loading conditions.
 
         - title: Coastal & Climate-Driven Geomechanics
-          description: Climate impacts on slopes, coasts, and evolving geotechnical hazards.
+          description: Climate impacts on slopes, coastal systems, vegetation effects, and evolving geotechnical hazards.
 
     design:
+      view: card
       columns: 2
 ---

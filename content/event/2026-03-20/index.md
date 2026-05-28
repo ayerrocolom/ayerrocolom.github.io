@@ -13,7 +13,7 @@ location: Christiansburg, VA
   # country: United States
 
 summary: Outreach activity at Wonder Universe Museum.
-'As part of the NSF CAREER educational program, our group organized a STEM Saturday outreach event at Wonder Universe Museum. The activity engaged children and families in hands-on experiments exploring soil behavior, including sand stability, root reinforcement, earth structures, and “magic mud” to illustrate how soils can behave like solids or liquids under stress. Thank you to Swostika, Sukrit, and GSO for your help!!'
+abstract: 'As part of the NSF CAREER educational program, our group organized a STEM Saturday outreach event at Wonder Universe Museum. The activity engaged children and families in hands-on experiments exploring soil behavior, including sand stability, root reinforcement, earth structures, and “magic mud” to illustrate how soils can behave like solids or liquids under stress. Thank you to Swostika, Sukrit, and GSO for your help!!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

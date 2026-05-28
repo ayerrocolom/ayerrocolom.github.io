@@ -37,7 +37,7 @@ education:
       institution: Universitat Politècnica de Catalunya
       year: 2008
 
-email: ""
+email: "ayerro@vt.edu"
 
 social: []
 
@@ -48,5 +48,3 @@ organizations:
 highlight_name: true
 ---
 
-
----

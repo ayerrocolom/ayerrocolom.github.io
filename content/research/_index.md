@@ -6,7 +6,7 @@ sections:
 
   - block: features
     content:
-      title: Research Themes
+      title: Research Areas
       description: |
         My research focuses on large-deformation geomechanics and coupled physical processes governing geotechnical hazards and infrastructure systems. I develop computational and data-driven methods to understand failure, deformation, and system response under extreme loading and environmental change.
 

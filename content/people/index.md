@@ -35,6 +35,8 @@ sections:
     content:
       title: Alumni
       text: |
+        These are students and researchers who have contributed to the growth and research activities of the group.
+    
         ### PhD Graduates:
         - Luis Zambrano-Cruzatty (2021) Advancements of Numerical Simulation Techniques to Model Geotechnical Problems in the Nearshore Zone
         - Veronica Girardi (2022) Stability and runout of river levees subjected to rainfall and water table changes

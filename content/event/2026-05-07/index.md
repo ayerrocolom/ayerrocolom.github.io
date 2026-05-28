@@ -4,7 +4,7 @@ title: Swostika Shakal MS Defense
 event: Swostika Shakal MS Defense
 # event_url: https://example.org
 
-# location: Wowchemy HQ
+location: Virginia Tech
 # address:
   # street: 450 Serra Mall
   # city: Stanford

@@ -36,7 +36,7 @@ sections:
       title: Alumni
       text: |
         ### PhD Graduates:
-        - Luis Zambrano-Cruzatty (2021) Advancements of Numerical Simulation Techniques to Model Geotechnical Problems in the Nearshore Zone.
+        - Luis Zambrano-Cruzatty (2021) Advancements of Numerical Simulation Techniques to Model Geotechnical Problems in the Nearshore Zone
         - Veronica Girardi (2022) Stability and runout of river levees subjected to rainfall and water table changes
         - Kaleigh Yost (2022) Study of multi-thin-layer effects on CPT data
         - Ali Monzer (2023) Prediction of Structural Integrity of the Ground and Buried Utilities Using Numerical Simulation of Soil Erosion around Leaking Pipe

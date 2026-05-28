@@ -1,5 +1,9 @@
 ---
 title: Publications
+
+banner: 
+  image: logo.jpg 
+  caption: "Research outputs and scholarly publications"
 ---
 
 

@@ -8,7 +8,7 @@ role: PhD student, Virginia Tech
 superuser: true
 
 user_groups:
-  - Grad Students 
+  - PhD Students 
 
 avatar_filename: avatar.jpg
 

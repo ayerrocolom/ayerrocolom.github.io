@@ -72,6 +72,7 @@ sections:
       title: Visitor Scholars
       text: |
 
+      ### Visitor Scholars:
         - Veronica Girardi, Ph.D. student, Università degli Studi di Padova (Italy), January 10, 2020 – June 10, 2020
         - Ruidong Li, Ph.D. student, Hong Kong University of Science and Technology (China), September 10 – October 20, 2023, and September 20, 2024– December 6, 2024
         - Maria Teresa Yubero de Mateo, Assistant Professor, Polytechnic University of Catalonia (Spain), January 15, 2025 – July 15, 2025

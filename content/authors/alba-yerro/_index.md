@@ -4,6 +4,7 @@ first_name: Alba
 last_name: Yerro
 
 role: Associate Professor, Virginia Tech
+url: https://www.webapps.cee.vt.edu/index.php?category=people&pagetype=bio&do=getprofile&user=YerroColom.html
 
 superuser: true
 

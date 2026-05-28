@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-## Publications
+
 
 A complete and up-to-date list of publications is available on Google Scholar:
 

@@ -24,16 +24,6 @@ education:
 
 email: ""
 
-social:
-  - icon: university
-    icon_pack: fas
-    link: ""
-
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:"
-
-
 
 highlight_name: true
 ---

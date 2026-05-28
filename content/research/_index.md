@@ -13,28 +13,26 @@ sections:
   - block: features
     content:
       title: Selected Research Areas
-      items:
+      features:
         - title: Landslides & Debris Flows
           icon: mountain
           description: Numerical modeling of landslide initiation, runout, and interaction with infrastructure using MPM and hydromechanical approaches.
-          link: /project/landslides/
+          url: /project/landslides/
 
         - title: Earthquake-Induced Failures
           icon: bolt
           description: Simulation of liquefaction, cyclic loading, and post-earthquake ground deformation.
-          link: /project/earthquakes/
+          url: /project/earthquakes/
 
         - title: Coastal & Nearshore Geomechanics
           icon: water
           description: Soil response in coastal environments including erosion, wave interaction, and nearshore stability.
-          link: /project/coastal/
+          url: /project/coastal/
 
         - title: Soil–Structure Interaction
           icon: building
           description: Interaction between soil, buried infrastructure, and transportation systems under extreme loading.
-          link: /project/ssi/
+          url: /project/ssi/
 
     design:
       columns: 2
-      show_icon: true
-      show_description: true

@@ -4,15 +4,9 @@ type: landing
 
 sections:
 
-  - block: markdown
-    content:
-      title: Research
-      text: |
-        The Alba Yerro Research Group focuses on geotechnical hazards, large-deformation modeling, and soil–water–structure interaction. Our work combines advanced numerical methods with physical insight to understand complex ground failure processes.
-
   - block: features
     content:
-      title: Selected Research Areas
+      title: Research Areas
       features:
         - title: Landslides & Debris Flows
           icon: mountain

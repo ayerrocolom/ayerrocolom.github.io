@@ -50,8 +50,8 @@ sections:
         - Nahmed Nissar (2020) Analyzing internal shearing in compound landslide using MPM
         - Julio Copana (2020) Seismic Slope Stability. A Comparison Study of Empirical Predictive Methods with the Finite Element Method
         - Ian Pierce (2021) Identification of Key Factors Controlling the Runout of the Cadia Tailing Dam Failure
-        - Fuat Furkan (2021 MPM numerical analysis of Free Fall Penetrometer Impact on saturated sand
-        - Rashna Pandit (2023 Characterization of soft clay and clay-tire interaction for the prediction of ground mobility
+        - Fuat Furkan (2021) MPM numerical analysis of Free Fall Penetrometer Impact on saturated sand
+        - Rashna Pandit (2023) Characterization of soft clay and clay-tire interaction for the prediction of ground mobility
         - Aaditaya Roshan (2023) MPM modeling of the impact of compound landslides on a rigid wall
         - Roisha Maharjan (2023) Estimating the effectiveness of stone columns in mitigating post-liquefaction settlement using Plaxis2D
         - Jonathan Moore (2025) MPM analysis of FFP in sand considering high-strain-rate effects

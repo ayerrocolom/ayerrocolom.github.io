@@ -9,27 +9,24 @@ sections:
       title: Research Themes
       text: |
         My research focuses on large-deformation geomechanics and coupled physical processes governing geotechnical hazards and infrastructure systems.
-      features:
+
+      items:
 
         - title: Computational Geomechanics (MPM / Anura3D)
           icon: code
-          text: |
-            Development and application of the Material Point Method and Anura3D for large-deformation soil mechanics, multiphase flow, and soil–structure interaction.
+          text: Development and application of MPM and Anura3D for large-deformation geomechanics and multiphase flow.
 
         - title: Large-Deformation Geohazards
           icon: mountain
-          text: |
-            Landslides, earthquake-induced failures, tailings flows, and climate-driven slope instability.
+          text: Landslides, earthquakes, tailings flows, and climate-driven slope instability.
 
         - title: Coupled Fluid–Soil–Structure Systems
           icon: water
-          text: |
-            Interaction of soils with fluids and infrastructure, including coastal, offshore, and hydraulic systems.
+          text: Interaction of soils, fluids, and infrastructure systems under extreme loading.
 
         - title: Infrastructure & Data-Driven Geotechnics
           icon: building
-          text: |
-            Transportation systems, field data, machine learning, and experimental geotechnics.
+          text: Transportation systems, field data, machine learning, and experimental geomechanics.
 
     design:
       columns: 2

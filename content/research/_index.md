@@ -6,27 +6,31 @@ sections:
 
   - block: features
     content:
-      title: Research Areas
-      features:
-        - title: Landslides & Debris Flows
+      title: Research Themes
+      description: |
+        My research focuses on large-deformation geomechanics and coupled physical processes governing geotechnical hazards and infrastructure systems. I develop computational and data-driven methods to understand failure, deformation, and system response under extreme loading and environmental change.
+
+    features:
+
+        - title: Computational Geomechanics (MPM / Anura3D)
+          icon: code
+          description: |
+            Development and application of the Material Point Method and Anura3D for large-deformation soil mechanics, multiphase flow, and soil–structure interaction.
+
+        - title: Large-Deformation Geohazards
           icon: mountain
-          description: Numerical modeling of landslide initiation, runout, and interaction with infrastructure using MPM and hydromechanical approaches.
-          url: /project/landslides/
+          description: |
+            Landslides, earthquake-induced failures, tailings flows, and climate-driven slope instability.
 
-        - title: Earthquake-Induced Failures
-          icon: bolt
-          description: Simulation of liquefaction, cyclic loading, and post-earthquake ground deformation.
-          url: /project/earthquakes/
-
-        - title: Coastal & Nearshore Geomechanics
+        - title: Coupled Fluid–Soil–Structure Systems
           icon: water
-          description: Soil response in coastal environments including erosion, wave interaction, and nearshore stability.
-          url: /project/coastal/
+          description: |
+            Interaction of soils with fluids and infrastructure, including coastal, offshore, and hydraulic systems.
 
-        - title: Soil–Structure Interaction
+        - title: Infrastructure & Data-Driven Geotechnics
           icon: building
-          description: Interaction between soil, buried infrastructure, and transportation systems under extreme loading.
-          url: /project/ssi/
+          description: |
+            Transportation systems, field-based investigations, machine learning, and experimental validation of geotechnical performance.
 
     design:
       columns: 2

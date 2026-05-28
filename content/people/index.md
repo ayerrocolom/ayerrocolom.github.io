@@ -45,7 +45,7 @@ sections:
         - Varsha Swamy (2025) Numerical and experimental modeling of tire–mud interaction
         - Abdelrahman Alsardi (2025) Simulating earthquake-triggered runout using higher-order hydromechanical MPM and PM4Sand
 
-      ### MS Theses:
+        ### MS Theses:
         - Angela C. Saade (2018) Numerical Analysis of RAP Elements under Dynamic Loading
         - Nahmed Nissar (2020) Analyzing internal shearing in compound landslide using MPM
         - Julio Copana (2020) Seismic Slope Stability. A Comparison Study of Empirical Predictive Methods with the Finite Element Method
@@ -60,11 +60,11 @@ sections:
         - Destiny Mason (2025) Finite Element Modeling and Experimental Testing of Tire-Soil Interactions for Off-Road Vehicle Performance
         - Skwostika Dhakal (2026) Mechanical Root Reinforcement for Slope Stability. A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System
 
-      ### Undergrad Research:
+        ### Undergrad Research:
         - Jonathan Moore (2018) Dynamic site response in MPM 
         - Jared Allen (2025) Database of Free Fall Penetrometer field data
 
-      ### Postdoctoral Scholars:
+        ### Postdoctoral Scholars:
         - George Idiculla (2024-2025) Design Adequacy Analysis of the Poplar Creek Box Culverts
 
   - block: markdown
@@ -72,7 +72,7 @@ sections:
       title: Visitor Scholars
       text: |
 
-      ### Visitor Scholars:
+        ### Visitor Scholars:
         - Veronica Girardi, Ph.D. student, Università degli Studi di Padova (Italy), January 10, 2020 – June 10, 2020
         - Ruidong Li, Ph.D. student, Hong Kong University of Science and Technology (China), September 10 – October 20, 2023, and September 20, 2024– December 6, 2024
         - Maria Teresa Yubero de Mateo, Assistant Professor, Polytechnic University of Catalonia (Spain), January 15, 2025 – July 15, 2025

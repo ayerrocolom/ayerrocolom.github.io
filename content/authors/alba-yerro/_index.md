@@ -52,9 +52,6 @@ social:
     icon_pack: ai
     link: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=K3YMobYAAAAJ&pagesize=100&sortby=pubdate"
 
-organizations:
-  - name: Virginia Tech
-    url: https://www.vt.edu
 
 highlight_name: true
 ---

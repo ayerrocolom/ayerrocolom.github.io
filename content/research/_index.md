@@ -18,7 +18,7 @@ sections:
           image: "/uploads/research/icon.png"
           description: Landslides, debris flows, liquefaction, and failure processes involving extreme deformation and post-failure evolution.
 
-        - name: Coupled Soil–Fluid–Structure Systems
+        - title: Coupled Soil–Fluid–Structure Systems
           image: "/uploads/research/icon.png"
           description: Multiphysics interaction between soils, water, and infrastructure under static and dynamic loading conditions.
 

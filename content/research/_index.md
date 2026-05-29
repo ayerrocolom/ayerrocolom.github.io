@@ -11,15 +11,15 @@ sections:
 
       items:
         - name: Computational Geomechanics (MPM & Anura3D)
-          image: "images/research/icon.png"
+          image: "/uploads/research/icon.png"
           description: Development of particle-based and continuum numerical methods for large-deformation soil behavior and geohazard simulation.
 
         - name: Large-Deformation Geohazards
-          image: "images/research/icon.png"
+          image: "/uploads/research/icon.png"
           description: Landslides, debris flows, liquefaction, and failure processes involving extreme deformation and post-failure evolution.
 
         - name: Coupled Soil–Fluid–Structure Systems
-          image: "images/research/icon.png"
+          image: "/uploads/research/icon.png"
           description: Multiphysics interaction between soils, water, and infrastructure under static and dynamic loading conditions.
 
     design:

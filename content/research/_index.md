@@ -7,7 +7,7 @@ sections:
     content:
       title: Research Themes
       text: |
-        My research focuses on large-deformation geomechanics and coupled physical processes governing geotechnical hazards and infrastructure systems.
+        My research focuses on large-deformation geomechanics and the coupled physical processes that govern geotechnical hazards and infrastructure systems.
 
       items:
         - name: Computational Geomechanics (MPM & Anura3D)
@@ -18,9 +18,6 @@ sections:
 
         - name: Coupled Soil–Fluid–Structure Systems
           description: Multiphysics interaction between soils, water, and infrastructure under static and dynamic loading conditions.
-
-        - name: Coastal & Climate-Driven Geomechanics
-          description: Climate impacts on slopes, coastal systems, vegetation effects, and evolving geotechnical hazards.
 
     design:
       view: card

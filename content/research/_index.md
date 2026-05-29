@@ -3,18 +3,18 @@ title: Research
 type: landing
 
 sections:
-  - block: features
+  - block: portofolio
     content:
       title: Research Themes
       text: |
         My research focuses on large-deformation geomechanics and the coupled physical processes that govern geotechnical hazards and infrastructure systems.
 
       items:
-        - name: Computational Geomechanics (MPM & Anura3D)
+        - title: Computational Geomechanics (MPM & Anura3D)
           image: "/uploads/research/icon.png"
           description: Development of particle-based and continuum numerical methods for large-deformation soil behavior and geohazard simulation.
 
-        - name: Large-Deformation Geohazards
+        - title: Large-Deformation Geohazards
           image: "/uploads/research/icon.png"
           description: Landslides, debris flows, liquefaction, and failure processes involving extreme deformation and post-failure evolution.
 

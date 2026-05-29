@@ -3,11 +3,11 @@ title: Research
 type: landing
 
 sections:
-  - block: portfolio
+  - block: features
     content:
       title: Research Themes
       text: |
-        My research focuses on large-deformation geomechanics and the coupled physical processes that govern geotechnical hazards and infrastructure systems.
+        My research focuses on large-deformation geomechanics and coupled physical processes.
 
       items:
         - title: Computational Geomechanics (MPM & Anura3D)

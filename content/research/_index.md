@@ -7,22 +7,21 @@ sections:
     content:
       title: Research Themes
       text: |
-        My research focuses on large-deformation geomechanics and coupled physical processes.
+        My research focuses on large-deformation geomechanics and coupled soil–fluid–structure processes.
 
       items:
         - title: Computational Geomechanics (MPM & Anura3D)
-          image: "static/uploads/research/icon.png"
-          description: Development of particle-based and continuum numerical methods for large-deformation soil behavior and geohazard simulation.
+          icon: gear
+          description: Development of particle-based and continuum methods for large-deformation soil behavior and geohazard simulation.
 
         - title: Large-Deformation Geohazards
-          image: "static/uploads/research/icon.png"
-          description: Landslides, debris flows, liquefaction, and failure processes involving extreme deformation and post-failure evolution.
+          icon: mountain
+          description: Landslides, debris flows, liquefaction, and post-failure evolution of geomaterials.
 
         - title: Coupled Soil–Fluid–Structure Systems
-          image: "static/uploads/research/icon.png"
-          description: Multiphysics interaction between soils, water, and infrastructure under static and dynamic loading conditions.
+          icon: water
+          description: Multiphysics interaction between soils, water, and infrastructure under static and dynamic loading.
 
     design:
       view: card
-      columns: 3
 ---

@@ -3,7 +3,7 @@ title: Research
 type: landing
 
 sections:
-  - block: collection
+  - block: portfolio
     content:
       title: Research Themes
       text: |

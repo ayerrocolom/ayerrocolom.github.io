@@ -6,6 +6,9 @@
 main:
   - name: Research
     url: research
+    weight: 10  
+  - name: Projects
+    url: projects
     weight: 20
   - name: Team
     url: people
@@ -14,7 +17,7 @@ main:
     url: event
     weight: 40
   - name: Publications
-    url: publication
+    url: publications
     weight: 50
   - name: Contact
     url: contact

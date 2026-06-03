@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: modern
-  theme_night:
+  theme_day: minimal
+  theme_night: dark
   font: native
   font_size: L
-  accent_color: '#8C1515'  # Virginia Tech maroon
+  accent_color: '#f7f3f0'  #8C1515 Virginia Tech maroon
 
 
 # SEO

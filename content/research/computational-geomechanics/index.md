@@ -1,5 +1,5 @@
 ---
 title: Computational Geomechanics
 image:
-  filename: featured.jpg
+  filename: icon.png
 ---

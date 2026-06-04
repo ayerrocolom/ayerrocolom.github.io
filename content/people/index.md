@@ -19,8 +19,9 @@ sections:
         - MS Students
         - Undergraduate Students
         - Visitor Scholars
-        - Alumni - PhD
-        - Alumni - MS
+        - PhD Alumni
+        - MS Alumni
+        - Undergraduate Research Alumni
 
       sort_by: weight # Params.last_name
       sort_ascending: true

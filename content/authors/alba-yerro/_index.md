@@ -61,5 +61,5 @@ Alba Yerro is an Associate Professor at Virginia Tech and leads the Yerro Resear
 
 Her work includes applications to landslides, debris flows, tailings dam failures, internal erosion, liquefaction, and infrastructure resilience.
 
-[Complete CV](\media\AYerro_CV_ALL_26-05.pdf)
+[Complete CV](/media/AYerro_CV_ALL_26-05.pdf)
 

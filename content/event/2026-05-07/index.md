@@ -1,7 +1,7 @@
 ---
-title: Swostika Shakal MS Defense
+title: Swostika Dhakal MS Defense
 
-event: Swostika Shakal MS Defense
+event: Swostika Dhakal MS Defense
 # event_url: https://example.org
 
 location: Virginia Tech
@@ -12,7 +12,7 @@ location: Virginia Tech
   # postcode: '94305'
   # country: United States
 
-summary: Swostika Shakal MS Defense.
+summary: Swostika Dhakal MS Defense.
 abstract: 'Swostika Dhakal successfully defended her MS thesis titled *“Mechanical Root Reinforcement for Slope Stability: A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System”* at Virginia Tech.
 
 Her work brought together vegetation–soil interaction, providing a fresh perspective on how root systems can be represented in geotechnical modeling. It was a great mix of literature synthesis and new ideas for how to classify root reinforcement in a more functional and mechanics-based way.

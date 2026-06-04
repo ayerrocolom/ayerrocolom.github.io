@@ -10,6 +10,7 @@ superuser: true
 
 user_groups:
   - PhD Students 
+  - MS Alumni
 
 avatar_filename: avatar.jpg
 
@@ -28,3 +29,5 @@ email: ""
 
 highlight_name: true
 ---
+
+MS Project & Report: MPM Modeling of Underground Excavation Process and Settlement Prediction

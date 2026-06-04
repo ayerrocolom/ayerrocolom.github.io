@@ -1,8 +1,9 @@
 ---
 title: Ruidong Li
+
 first_name: Ruidong (Francis) 
 last_name: Li
-
+weight: 20
 role: PhD student, Hong Kong University of Science and Technology 
 
 superuser: true

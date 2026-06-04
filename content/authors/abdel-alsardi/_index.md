@@ -1,20 +1,21 @@
 ---
-title: Sukrityranjan Samanta
+title: Abdelrahman Alsardi
 
-first_name: Sukrityranjan 
-last_name: Samanta
+first_name: Abdelrahman 
+last_name: Alsardi
 weight: 10
-role: PhD student, Virginia Tech
+role: PhD Graduate, Virginia Tech
 
 superuser: true
 
 user_groups:
-  - PhD Students 
+  - Alumni - PhD
+
 
 avatar_filename: avatar.jpg
 
 bio: |
-  Sukrit works...
+  Abdel works...
   
 interests:
   - 

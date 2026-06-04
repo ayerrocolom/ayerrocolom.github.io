@@ -1,8 +1,9 @@
 ---
 title: Michael Bennett
+
 first_name: Michael 
 last_name: Bennett
-
+weight: 40
 role: PhD student, Virginia Tech 
 
 superuser: true

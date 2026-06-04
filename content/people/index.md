@@ -18,11 +18,11 @@ sections:
         - PhD Students
         - MS Students
         - Undergraduate Students
-        - Just Graduated
-        - Visitors
-        - Alumni
+        - Visitor Scholars
+        - Alumni - PhD
+        - Alumni - MS
 
-      sort_by: Params.last_name
+      sort_by: weight # Params.last_name
       sort_ascending: true
 
     design:

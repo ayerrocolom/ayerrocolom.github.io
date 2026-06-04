@@ -1,5 +1,6 @@
 ---
 title: Alba Yerro
+#layout: author-profile
 first_name: Alba
 last_name: Yerro
 
@@ -27,15 +28,12 @@ education:
   courses:
     - course: PhD in Civil Engineering
       institution: Universitat Politècnica de Catalunya
-      year: 2012
+      year: 2015
 
-    - course: MSc in Civil Engineering
+    - course: BSc & MSc in Civil Engineering
       institution: Universitat Politècnica de Catalunya
-      year: 2010
+      year: 2009
 
-    - course: BSc in Civil Engineering
-      institution: Universitat Politècnica de Catalunya
-      year: 2008
 
 email: "ayerro@vt.edu"
 

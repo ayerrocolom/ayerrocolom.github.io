@@ -1,9 +1,9 @@
 ---
 title: Alba Yerro
-#layout: author-profile
+
 first_name: Alba
 last_name: Yerro
-
+weight: 1
 role: Associate Professor, Virginia Tech
 
 superuser: true

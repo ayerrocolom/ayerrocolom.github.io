@@ -18,10 +18,10 @@ sections:
         - PhD Students
         - MS Students
         - Undergraduate Students
-        - Visitor Scholars
         - PhD Alumni
         - MS Alumni
         - Undergraduate Research Alumni
+        - Visitor Scholars
 
       sort_by: weight # Params.last_name
       sort_ascending: true
@@ -61,7 +61,7 @@ sections:
         - Carole Karam (2025) [MPM Modeling of Internal Collapse Under Levees Caused by Underground Openings](https://vtechworks.lib.vt.edu/items/733971e6-913d-4fd0-ad07-cf76b8717a3e)
         - Jasleen Behora (2025) [Laboratory and Numerical Investigation for the Mobility of Ground Vehicles on Soft Clay](https://vtechworks.lib.vt.edu/items/4f614a5b-f6bd-4006-b285-bf1a912bc074)
         - Destiny Mason (2025) [Finite Element Modeling and Experimental Validation for Off-Road Tire Performance](https://vtechworks.lib.vt.edu/items/ca53767b-d94c-4f77-8381-f5031924c20c)
-        - Skwostika Dhakal (2026) Mechanical Root Reinforcement for Slope Stability. A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System
+        - Swostika Dhakal (2026) Mechanical Root Reinforcement for Slope Stability. A State-of-the-Art Review and a Proposed Trait-Based Functional Root Classification System
 
         ### Undergrad Research:
         - Jonathan Moore (2018) Dynamic site response in MPM 

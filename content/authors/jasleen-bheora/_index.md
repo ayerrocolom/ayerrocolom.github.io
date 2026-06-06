@@ -1,8 +1,8 @@
 ---
-title: Jasleen Behora
+title: Jasleen Bheora
 
 first_name: Jasleen 
-last_name: Behora
+last_name: Bheora
 weight: 20
 role: MS Graduate, Virginia Tech
 

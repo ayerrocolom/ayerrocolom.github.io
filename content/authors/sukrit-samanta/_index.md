@@ -36,3 +36,5 @@ highlight_name: true
 ---
 
 Sukrit is a Ph.D. student in Geotechnical Engineering at Virginia Tech. His research focuses on geotechnical engineering problems involving underground cavity progression, internal erosion, seepage, slope stability, and soil–structure interaction. His work combines analytical methods, numerical modeling, and experimental interpretation to study failure mechanisms in soil systems.
+
+[Complete CV](/media/CV_Sukrit.pdf)

@@ -10,7 +10,7 @@ superuser: true
 
 user_groups:
   - PhD Students 
-  - MS Alumni
+ 
 
 avatar_filename: avatar.jpg
 

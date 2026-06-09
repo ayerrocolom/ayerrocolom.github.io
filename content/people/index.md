@@ -21,6 +21,7 @@ sections:
         - PhD Alumni
         - MS Alumni
         - Undergraduate Research Alumni
+        - Postdoctoral Alumni
         - Visitor Scholars
 
       sort_by: weight # Params.last_name

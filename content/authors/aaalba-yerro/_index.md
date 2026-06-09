@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Civil Engineering
+    - course: PhD in Geotechnical Engineering
       institution: Universitat Politècnica de Catalunya
       year: 2015
 

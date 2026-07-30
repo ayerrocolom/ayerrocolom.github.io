@@ -24,9 +24,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Civil Engineering (Geotechnical Engineering), 2026–Present, Virginia Tech
-  - course: M.Sc. in Civil Engineering (Geotechnical Engineering), 2019, University of Science and Culture
-  - course: B.Sc. in Civil Engineering, 2017, University of Science and Culture
+  - course: Ph.D. in Civil Engineering (Geotechnical Engineering), 2026–Present, Virginia Tech, US
+  - course: M.Sc. in Civil Engineering (Geotechnical Engineering), 2019, University of Science and Culture, Iran
+  - course: B.Sc. in Civil Engineering, 2017, University of Science and Culture, Iran
 
 email: ""
 

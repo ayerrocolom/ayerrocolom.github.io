@@ -24,8 +24,8 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Geotechnical Engineering, 2023–Present, Hong Kong University of Science and Technology
-    - course: M.S. in Geotechnical Engineering, 2019, Virginia Tech
+    - course: Ph.D. in Geotechnical Engineering, 2022–Present, Hong Kong University of Science and Technology
+    - course: M.S. in Geotechnical Engineering, 2018, Virginia Tech
     - course: B.S. in Civil Engineering, 2017, Virginia Tech
 
 

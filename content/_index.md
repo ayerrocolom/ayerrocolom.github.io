@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Alba Yerro Research Group
+title: Alba Yerro Research Group | Geotechnical Engineering | Virginia Tech
 subtitle: Virginia Tech – Civil and Environmental Engineering
 date: 2026-01-19
 type: landing
@@ -29,7 +29,6 @@ sections:
       offset: 0
       order: desc
       page_type: event
-    design:
       view: card
       columns: '1'
   

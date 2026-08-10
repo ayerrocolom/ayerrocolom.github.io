@@ -11,7 +11,7 @@ sections:
       title: Alba Yerro Research Group 
       text: |
         <br>
-        Welcome to the <strong>Alba Yerro Research Group</strong>. We study geotechnical hazards, landslides, tailings dam safety, internal erosion, and soil–water–structure interactions.
+        Welcome to the <strong>Alba Yerro Research Group</strong> at Virginia Tech. We study geotechnical hazards, landslides, tailings dam safety, internal erosion, and soil–water–structure interactions.
     image:    
   
   - block: collection

@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Geotechnical Engineering, 2023–Present, Virginia Tech
-    - course: M.S. in Geotechnical Engineering, 2023, National Taiwan University
-    - course: B.Tech. in Civil Engineering, 2017, National Institute of Technology
+    - course: Ph.D. in Geotechnical Engineering, 2023–Present, Virginia Tech, US
+    - course: M.S. in Geotechnical Engineering, 2023, National Taiwan University, Taipei, Taiwan
+    - course: B.Tech. in Civil Engineering, 2017, National Institute of Technology, Raipur, India
 
 email: ""
 

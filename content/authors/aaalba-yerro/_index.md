@@ -50,6 +50,14 @@ social:
     icon_pack: ai
     link: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=K3YMobYAAAAJ&pagesize=100&sortby=pubdate"
 
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/alba-yerro-colom-30979680/
+
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Alba-Yerro-2/
+
   - icon: file-pdf
     icon_pack: fas
     link: "/media/AYerro_CV_ALL_26-05.pdf"
